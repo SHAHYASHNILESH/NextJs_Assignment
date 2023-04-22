@@ -28,7 +28,7 @@ const Home = ({ data }) => {
           })}
         </>
       ) : (
-        <>Hello</>
+        <>Hello World</>
       )}
     </>
   );
